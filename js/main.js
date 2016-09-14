@@ -1,0 +1,7 @@
+document.getElementById("form-signin-heading").innerHTML= "Por favor inicia sesión";
+
+document.getElementById("inputEmail").placeholder="Correo electrónico";
+document.getElementById("inputPassword").placeholder="Contraseña";
+
+document.querySelector("span").innerHTML= "Recordar datos";
+document.querySelector(".btn").innerHTML= "Iniciar Sesión";
